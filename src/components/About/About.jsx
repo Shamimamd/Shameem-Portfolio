@@ -34,7 +34,7 @@ const About = () => {
           leading-tight
           "
           >
-            Kya bolti public
+            Hi, I am
           </h1>
 
           {/* Name */}
