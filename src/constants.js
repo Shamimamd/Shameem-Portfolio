@@ -45,7 +45,7 @@ import vpsLogo from "./assets/education_logo/vps_logo.png";
 
 // Project Section Logo's
 import githubdetLogo from "./assets/work_logo/github_det1.png";
-import csprepLogo from "./assets/work_logo/cs_prep.png";
+import csprepLogo from "./assets/Screenshot 2026-02-20 191442.png";
 import movierecLogo from "./assets/work_logo/img1.png";
 // import taskremLogo from "./assets/work_logo/task_rem.png";
 // import npmLogo from "./assets/work_logo/npm.png";
@@ -151,20 +151,42 @@ export const experiences = [
       "Managed work permits, safety documentation & coordination",
       " Maintained compliance and reporting with site supervisors",
     ],
-    skills: [],
+    skills: [
+      "Work Permit Management",
+      "Safety Compliance & Documentation",
+      "Site Coordination",
+      "Regulatory Compliance",
+      "Reporting & Record Keeping",
+      "Risk Assessment Awareness",
+      "Communication with Supervisors",
+      "Attention to Detail",
+      "Time Management",
+      "Organizational Skills",
+    ],
   },
   {
     id: 2,
     img: webverseLogo,
-    role: "Founder",
+    role: "Sales Supervisor",
     company: "Ahmed Plywood & Hardware, Howrah (Google Listed)",
-    date: "2019",
+    date: "2019 - 2023",
     desc: [
-      "Started and managed a retail business from scratch",
-      " Handled sales, inventory, vendors & customers",
-      " Built local brand presence via Google listing",
+      "Supervised daily sales operations and guided team to achieve targets",
+      "Monitored inventory, coordinated with vendors, and ensured stock availability",
+      "Maintained strong customer relationships and improved overall sales performance",
     ],
-    skills: [],
+    skills: [
+      "Sales Team Leadership",
+      "Target Achievement & KPI Tracking",
+      "Customer Relationship Management",
+      "Inventory Management",
+      "Vendor Coordination",
+      "Sales Reporting & Analysis",
+      "Negotiation Skills",
+      "Conflict Resolution",
+      "Retail Operations Management",
+      "Communication & Presentation",
+    ],
   },
 ];
 
@@ -207,13 +229,22 @@ export const projects = [
   },
   {
     id: 1,
-    title: "Shopping Mall Data Analysis ",
+    title: "Customer Credit Card Report Dashboard",
     description: [
-      "Cleaned and analysed customer & product data ",
-      "Visualized gender-wise & category-wise sales trends",
+      "Visualized age and income distributions to understand customer demographics",
+      "Analyzed loan ownership against satisfaction scores to extract customer insights",
+      "Compared education levels, marital status, and job types with income and loan behavior",
     ],
-    // image: csprepLogo,
-    tags: [],
+    image: csprepLogo,
+    tags: [
+      "Python",
+      "Pandas",
+      "Seaborn",
+      "Matplotlib",
+      "PostgreSQL",
+      "Data Import",
+      "Data Management",
+    ],
     github:
       "https://www.github.com/Shamimamd/Data-Analysis-Project/blob/main/festival_sales.ipynb",
     webapp: "",
@@ -232,7 +263,19 @@ export const projects = [
       " Delivered actionable insights on product performance",
     ],
     image: movierecLogo,
-    tags: [],
+    tags: [
+      "Python",
+      "Pandas",
+      "NumPy",
+      "Matplotlib",
+      "Seaborn",
+      "Plotly",
+      "Dash",
+      "SQL",
+      "Data Analysis",
+      "Data Visualization",
+      "Business Intelligence",
+    ],
     github:
       "https://www.github.com/Shamimamd/Data-Analysis-Project/blob/main/festival_sales.ipynb",
     webapp: "",

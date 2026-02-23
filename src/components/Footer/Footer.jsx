@@ -1,10 +1,4 @@
-import {
-  FaFacebook,
-  FaTwitter,
-  FaLinkedin,
-  FaInstagram,
-  FaYoutube,
-} from "react-icons/fa";
+import { FaLinkedin } from "react-icons/fa";
 
 const year = new Date().getFullYear();
 

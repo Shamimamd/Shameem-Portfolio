@@ -115,7 +115,7 @@ const About = () => {
           {/* Button */}
           <div className="mt-8">
             <a
-              href="https://drive.google.com/file/d/12nE1uQHlCkPQRc5mzrZYiFzEdukcKPIP/view?usp=sharing"
+              href="https://drive.google.com/file/d/1EpsR_REgZJ_x2RkaobfyH3bj-T4pLq9-/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
               className="
